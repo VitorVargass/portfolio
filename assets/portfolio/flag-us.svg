@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 20">
+  <defs><path id="star" d="m0-.56.16.39.42.03-.32.28.1.42L0 .34l-.36.22.1-.42-.32-.28.42-.03z"/><g id="six"><use href="#star" x="1.23"/><use href="#star" x="3.71"/><use href="#star" x="6.19"/><use href="#star" x="8.67"/><use href="#star" x="11.15"/><use href="#star" x="13.63"/></g><g id="five"><use href="#star" x="2.47"/><use href="#star" x="4.95"/><use href="#star" x="7.43"/><use href="#star" x="9.91"/><use href="#star" x="12.39"/></g></defs>
+  <path fill="#fff" d="M0 0h38v20H0z"/>
+  <path fill="#b22234" d="M0 0h38v1.538H0zm0 3.077h38v1.538H0zm0 3.077h38v1.538H0zm0 3.077h38v1.538H0zm0 3.077h38v1.538H0zm0 3.077h38v1.538H0zm0 3.077h38V20H0z"/>
+  <path fill="#3c3b6e" d="M0 0h15.2v10.77H0z"/>
+  <g fill="#fff"><use href="#six" y="1.05"/><use href="#five" y="2.13"/><use href="#six" y="3.21"/><use href="#five" y="4.29"/><use href="#six" y="5.37"/><use href="#five" y="6.45"/><use href="#six" y="7.53"/><use href="#five" y="8.61"/><use href="#six" y="9.69"/></g>
+</svg>
